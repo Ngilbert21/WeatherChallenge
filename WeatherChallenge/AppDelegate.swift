@@ -1,13 +1,14 @@
 //
 //  AppDelegate.swift
-//  WeatherChallenge
+//  Clima
 //
-//  Created by Nicholas Gilbert on 10/2/23.
+//  Created by Nicholas Gilbert on 10/02/2023.
+//
 //
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
